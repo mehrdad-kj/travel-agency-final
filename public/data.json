@@ -1,0 +1,142 @@
+[
+	{
+		"title": "Hilton Grand",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "100$",
+        "img": "./img/4.jpg",
+        "id": 1
+	},
+	{
+		"title": "Henderson Beach",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "120$",
+        "img": "./img/2.jpg",
+        "id": 2
+	},
+	{
+		"title": "Embrac Sandetin",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "200$",
+        "img": "./img/3.jpg",
+        "id": 3
+	},
+	{
+		"title": "Streling Shores",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "150$",
+        "img": "./img/4.jpg",
+        "id": 4
+	},
+	{
+		"title": "Hotel Indigo",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "300$",
+        "img": "./img/4.jpg",
+        "id": 5
+	},
+	{
+		"title": "Palm Beach",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "250$",
+        "img": "./img/2.jpg",
+        "id": 6
+	},
+	{
+		"title": "Buena Vista",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "180$",
+        "img": "./img/3.jpg",
+        "id": 7
+	},
+	{
+		"title": "Caribe Royale",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "320$",
+        "img": "./img/4.jpg",
+        "id": 8
+	},
+	{
+		"title": "Liki Tiki Village",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "190$",
+        "img": "./img/4.jpg",
+        "id": 9
+	},
+	{
+		"title": "Sheraton Hotel",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "185$",
+        "img": "./img/2.jpg",
+        "id": 10
+	},
+	{
+		"title": "Gaylord Palm",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "250$",
+        "img": "./img/3.jpg",
+        "id": 11
+	},
+	{
+		"title": "Avanti Hotel",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "320$",
+        "img": "./img/4.jpg",
+        "id": 12
+	},
+	{
+		"title": "The Grove Resort",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "170$",
+        "img": "./img/4.jpg",
+        "id": 13
+	},
+	{
+		"title": "Holiday Inn",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "280$",
+        "img": "./img/2.jpg",
+        "id": 14
+	},
+	{
+		"title": "Delta Hotel",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "260$",
+        "img": "./img/3.jpg",
+        "id": 15
+	},
+	{
+		"title": "Walt Disney",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "240$",
+        "img": "./img/4.jpg",
+        "id": 16
+	},
+	{
+		"title": "Marriott's Resort",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "360$",
+        "img": "./img/4.jpg",
+        "id": 17
+	},
+	{
+		"title": "Magic Village",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "190$",
+        "img": "./img/2.jpg",
+        "id": 18
+	},
+	{
+		"title": "Coco Hey",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "270$",
+        "img": "./img/3.jpg",
+        "id": 19
+	},
+	{
+		"title": "Cypress Hotel",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": "160$",
+        "img": "./img/4.jpg",
+        "id": 20
+	}
+]
